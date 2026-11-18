@@ -23,6 +23,7 @@ non-commercial fan work, not affiliated with the film or its makers.
 | File | What |
 |---|---|
 | `six-months-later/bar.mp4` | 1920x1080, 24 fps, English subtitles burned in |
+| `six-months-later/teaser.mp4` | The first 20 s of `bar.mp4`, ending on "Then it was a very good wine." |
 | `six-months-later/bar.srt`, `bar.vtt` | The same subtitles as text |
 | `six-months-later/poster.jpg` | Poster frame |
 | `six-months-later/preview.webp` | Silent loop for this README |
